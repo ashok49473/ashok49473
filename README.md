@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashok Kumar</h1>
-<h3 align="center">A passionate Machine Learning Engineer from India</h3>
+<h3 align="center">A passionate Machine Learning Engineer. That means I love using data to make better decisions and also to build intelligent AI products that solve real-world problems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashok49473&label=Profile%20views&color=0e75b6&style=flat" alt="ashok49473" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashok49473" alt="ashok49473" /></a> </p>
-
-- 🔭 I’m currently working on **Recommender Systems**
+- 🔭 I’m currently working on **Recommendation Systems**
 
 - 🌱 I’m currently learning **MLOps**
 
@@ -17,7 +14,7 @@
 
 - 📫 How to reach me **ashokpalivela123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/126HhFTsFI6NifrMpUI1tldFK4tqxmQ2J/view?usp=sharing](https://drive.google.com/file/d/126HhFTsFI6NifrMpUI1tldFK4tqxmQ2J/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/126HhFTsFI6NifrMpUI1tldFK4tqxmQ2J/view?usp=sharing)
 
 - ⚡ Fun fact **Music is my main ingredient while coding.**
 
