@@ -1,25 +1,26 @@
 <h1 align="center">Hi 👋, I'm Ashok Kumar</h1>
-<h3 align="center">A passionate Machine Learning Engineer. That means I love using data to make better decisions and build intelligent AI products that solve real-world problems.</h3>
+<h4 align="center"> Software Engineer with 2+ years of experience in building robust and scalable applications. Skilled in backend development, machine learning, and cloud technologies. Passionate about automation, performance optimization, and writing clean, maintainable code.</h4>
 
 
-- 🔭 I’m currently working on **Recommendation Systems**
+- 🔭 I’m currently working on **API Developement**
 
-- 🌱 I’m currently learning **MLOps**
+- 🌱 I’m currently learning **CI/CD**
 
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 
-- 📝 I regularly write articles on [https://medium.com/@ashokpalivela](https://medium.com/@ashokpalivela)
+- 📝 I often write articles on [https://medium.com/@ashokpalivela](https://medium.com/@ashokpalivela)
 
-- 💬 Ask me about **Python, ML Engineering, and NLP**
+- 💬 Ask me about **Python, Backend Engineering, and NLP**
 
 - 📫 How to reach me **ashokpalivela123@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AZeOZD-49kKQ1J-n4iDVyLPgNMHRUVn_/view?usp=sharing)
 
-- ⚡ Fun fact **Music is my main ingredient while coding.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+[Question Answering System — NLP Project (Intermediate)](https://ashokpalivela.medium.com/question-answering-system-nlp-project-intermediate-46192a240799)
+[Potato Disease Classifier — End to End Deep Learning Project](https://ashokpalivela.medium.com/potato-disease-classifier-end-to-end-deep-learning-project-960bc784aa47)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
