@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ashokpalivela123@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/126HhFTsFI6NifrMpUI1tldFK4tqxmQ2J/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AZeOZD-49kKQ1J-n4iDVyLPgNMHRUVn_/view?usp=sharing)
 
 - ⚡ Fun fact **Music is my main ingredient while coding.**
 
