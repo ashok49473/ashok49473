@@ -19,8 +19,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-[Question Answering System — NLP Project (Intermediate)](https://ashokpalivela.medium.com/question-answering-system-nlp-project-intermediate-46192a240799)
-[Potato Disease Classifier — End to End Deep Learning Project](https://ashokpalivela.medium.com/potato-disease-classifier-end-to-end-deep-learning-project-960bc784aa47)
+- [Question Answering System — NLP Project (Intermediate)](https://ashokpalivela.medium.com/question-answering-system-nlp-project-intermediate-46192a240799)
+- [Potato Disease Classifier — End to End Deep Learning Project](https://ashokpalivela.medium.com/potato-disease-classifier-end-to-end-deep-learning-project-960bc784aa47)
+- [Multi-class Text Classification using Spark ML in Python](https://ashokpalivela.medium.com/multi-class-text-classification-using-spark-ml-in-python-b8d2a6545cb)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
